@@ -1,0 +1,5 @@
+moviepy
+pandas
+youtube-dl
+torchvision
+matplotlib
